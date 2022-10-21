@@ -1,2 +1,0 @@
-# Kamox Verification
-obsolete
